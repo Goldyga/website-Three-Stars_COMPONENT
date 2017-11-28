@@ -1,1 +1,1 @@
-![alt text](https://github.com/Goldyga/miniapp_Country-Search/blob/master/imageMin/Country.png?raw=true)
+![alt text](https://github.com/Goldyga/website-Three-Stars_COMPONENT/blob/master/Stars.png?raw=true)
