@@ -1,3 +1,5 @@
+# Three Stars Component
+
 Three divs some rotate transforms, hovers,  nice icon and the stars component is ready.
 
 [Live version](https://goldyga.github.io/website-Three-Stars_COMPONENT/)
